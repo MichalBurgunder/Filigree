@@ -1,0 +1,274 @@
+.App {
+  text-align: center;
+}
+
+.linksLeft {
+  float: left;
+  
+}
+
+.linksRight {
+  float: right;
+}
+
+.App-logo {
+  height: 90px;
+  margin-left: 0px;
+  top: 20px;
+  left: 20px;
+  width: 130px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.title {
+  margin-left: 100px;
+  font-size: 1px;
+}
+
+.App-header {
+  padding: 20px;
+  text-align: left;
+  background: rgb(102, 0, 255);
+  height: 80px;
+  padding: 20px;
+  color: white;
+  font-size: 1cm;
+  width: 100%;
+}
+
+
+.allMyLinks {
+  overflow: hidden;
+  width: 100%;
+  padding: 15px;
+  padding-top: 30px;
+  background-color: rgb(153, 86, 255);
+  background: linear-gradient(to bottom, rgb(103, 0, 255)  0%, rgb(129, 45, 255) 20%, rgb(172, 117, 255) 100%);
+  /* text-decoration: none; */
+}
+.mainStuff {
+  width: 100%;
+  display: block;
+}
+
+.everythingElse {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.linkClassLeft {
+  font-size: 1.1em;
+  padding: 0.2cm;
+  width: 100%;
+  color: white;
+  text-decoration: none;
+}
+
+.linkClassRight {
+  font-size: 1.1em;
+  padding: 0.2cm;
+  width: 100%;
+  float: center;
+  color: white;
+  text-decoration: none;
+}
+.separator {
+  padding-right:30px;
+}
+
+.row {
+  content: "";
+  width: 100%;
+  display: table;
+  clear: both;
+}
+
+.Home-intro {
+  font-size: 60px;
+}
+
+.NewTodo {
+  width: 100%;
+  text-align: center;
+}
+
+.Footer {
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+}
+
+.magicButton {
+  margin: 0 auto
+}
+
+.fourohfour {
+  text-align: center;
+  width: 100%;
+}
+
+.Home-container {
+  display: flex;
+  width: 50%;
+  padding: 100px;
+  margin-left: 10px;
+  margin-right: 20px;
+  background-repeat: no-repeat;
+}
+
+.homeContainer {
+  width: 100%;
+  padding-left: 25px;
+}
+
+.loginBar {
+  float: left;
+  width: 15%;
+  height: 100%;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.empty {
+  width: 30%;
+}
+.title {
+  margin-left: 100px;
+  font-size: 1px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.bolddd {
+  font-size: 30px
+}
+
+.fourohfourhome {
+  text-align: center;
+  width: 100%;
+  padding-top: 40px;
+}
+
+.loginBar {
+  font-size: 40px;
+  height: 100%;
+}
+
+.tableHeader {
+  text-align: left;
+}
+
+.tableHeader {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.dataTable {
+  background-color: #EEEEEE;
+}
+
+.dataStructure {
+  width: 100%;
+  text-align: left;
+}
+.dataStructure td, table.dataStructure th {
+  
+  border: 1px solid #AAAAAA;
+  background-color: #EEEEEE;
+}
+.dataStructure tr:nth-child(even) {
+  background: #DFDFF2;
+}
+.dataStructure thead {
+  background: rgb(129, 45, 255);
+  border-bottom: 2px solid #444444;
+}
+.dataStructure thead th {
+  color: rgb(255, 255, 255);
+  border-left: 0px solid #D0E4F5;
+}
+
+.loginButton {
+  background-color: rgb(237, 226, 255);
+  /* border: #9c1cfd; */
+  color: black;
+  padding: 0px 46px;
+  font-size: 16px;
+}
+
+.normalButton {
+  background-color: rgb(237, 226, 255);
+  /* border: #9c1cfd; */
+  color: black;
+  padding: 8px 20px;
+  font-size: 14px;
+}
+
+.optionButton {
+  background-color: rgb(208, 174, 250);
+  border: 1px solid rgb(0, 0, 0);
+  color: black;
+  padding: 4px;
+  font-size: 11px;
+}
+
+.bitofPadding {
+  padding: 1px;
+  text-align: center;
+}
+
+.mauve {
+  height: 350px;
+  margin-left: 0px;
+  top: 20px;
+  left: 20px;
+  width: 230px;
+  float: right;
+  margin: 10px;
+}
+
+.TextFieldText {
+  resize: none;
+  width: 500px;
+  height: 200px;
+  padding: 5px 5px;
+  font-size: 13px
+}
+
+.textInput {
+  padding: 5px 5px;
+  font-size: 13px
+}
+
+.wrongCredentials {
+  color: red;
+  padding-top: 0px;
+  padding-bottom: 20px;
+}
+
+.textInputFiles {
+  padding: 5px 5px;
+  font-size: 13px;
+  width: 300px;
+  height: 200px;
+}

@@ -1,0 +1,21 @@
+list of views for batches and text:
+
+
+-all batches from user (get)
+-new batch (post)
+-delete batch (delete)
+
+-all text from user (get)
+-new text (post)
+-delete text (delete)
+
+-add new text to batch (post)
+-delete text from batch (delete)
+
+-new full analysis (post) (consists of many smallers ones)
+    - dalechall analysis (post)
+    - fleischkinaid analysis (post)
+    - readability combination (post)
+    - wordcounting (post)(can possibly be incorporated in the unique word count by summing all the numbers)
+    - uniquewords/large dictionary of unique words (post)
+    -

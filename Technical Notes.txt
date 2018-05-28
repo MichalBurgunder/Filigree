@@ -1,0 +1,59 @@
+1. Create new project on GitHub
+2. Clone it onto your folder on your computer
+3. Create a docker-file (name: “Dockerfile”)(and 	a .gitignore file, for git pushes)
+4. For what goes into the file, you need to check prior documents
+	a. Determine ‘From continuumio/miniconda
+	b. Openssl-server allows you to install new 		python packages
+	c. 
+5. Folder ‘app’
+	a. Inside, “requirements.yml”, determines all 		the modules needed to install on server
+	b. Expose “ports”: Opens ports to the container 		(22 opens to public, 8000 is the local 		server)
+6. Once that is done, we build our image: docker build -t [image-project-name] .     <— the dot specifies the folder. ‘.’ specifies the current folder
+
+7. Docker run -ti [image-project-name] bash. Now we we can edit our Docker from this bash
+
+8. Activate environment (from conda) in your container (source activate app (change this in requirements.yml))
+
+DOCKER-COMPOSE.yml
+
+1. Create a docker-compose.yml file. This file 
+2. Put this inside the file (among other things):
+
+services:
+	app:
+		image: docker-test-project:latest
+		command:’’
+		volumes: 
+		
+
+
+3. docker-compose run -ti app bash
+	(o start a new project in the docker)
+3.3  Run django-admin startproject project . This creates a new django project tadaaa
+3.5 This creates a few files: settings.py, __init__.py, urls.py, wsgi.py
+4. Django-admin startproject app .  <— stars a new django project
+
+5. Run command “python manage.py runserver 0.0.0.0:8000”, to run the project on the local server
+
+Gitlab runner
+
+
+FOR FURTHER DOCKER INFORMATION, VISIT THIS SITE: https://docs.docker.com/compose/reference/run/ 
+
+DEPLOYING ONTO A SERVER
+1. Copy the  Gitlab.ci from prior documents, and put it into the same repository as the same place in the prior docs
+2. Gitlab has a runner ready to connect your server with the repository (and you connect your computer with the repository)
+
+
+Docker-compose ps: Check all dockers running on your computer
+
+
+I
+I missed the question
+
+
+Change project name
+
+T'is the shit man. They got weed candy, pizza, chips, even southern hemisphere Vigurian deep sea bass fish. Highest praise ma' man
+
+Changed field in database, do I need chuck out entire database

@@ -1,0 +1,30 @@
+version: '3'
+services:
+  database:
+    image: postgres:9.6.1
+    restart: always
+    env_file:
+      - dev.env
+    volumes:
+      - database:/var/lib/postgresql/data
+  app:
+    image: registry.gitlab.propulsion-home.ch/full-stack/batch-2018-03/personal-projects/text-analyzer:latest
+    restart: always
+    env_file:
+      - dev.env
+    ports:
+      - "8090:8000"
+      - "4754:22"
+      - "3000:3000"
+    command: "/usr/sbin/sshd -D"
+    depends_on:
+      - database
+    volumes:
+      - ./frontend:/frontend
+      - ./app:/app
+      - ./media-files:/media-files
+      - ./static-files:/static-files
+      - ./scripts:/scripts
+
+volumes:
+  database:
