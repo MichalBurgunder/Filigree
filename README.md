@@ -1,4 +1,4 @@
-![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.09.png)
+
 
 # Filigree
 
@@ -14,3 +14,7 @@ The idea I had behind this app was to combine my interests in literature and wri
 I have used Django/Django REST framework for the backend and React for the frontend, as these were the two technologies we have concerneed ourselves with during the bootcamp. Python has been tested for the PEP8 standard using flake8, although no standardised styles have been used for the frontend. I have however, cleaned it of unnecessary imports and commented out code. **Any questionable imports or code I have left as is**, in fear of breaking something that works. Beginners characteristic I suppose. 
 
 Finally, no documentation has been written due to time constraints and a single-person development team. 
+
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.09.png)![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.17.png)
+
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.33.png)![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.09.28.png)
