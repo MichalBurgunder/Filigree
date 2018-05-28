@@ -17,4 +17,4 @@ Finally, no documentation has been written due to time constraints and a single-
 
 ![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.17.png)![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.33.png)
 
-![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.05.00.png)![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.09.28.png)
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.05.00.png)
