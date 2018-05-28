@@ -1,3 +1,5 @@
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.09.png)
+
 # Filigree
 
 ## About
