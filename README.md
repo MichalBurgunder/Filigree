@@ -15,10 +15,6 @@ I have used Django/Django REST framework for the backend and React for the front
 
 Finally, no documentation has been written due to time constraints and a single-person development team. 
 
-![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.09.png)
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.09.png)![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.17.png)
 
-![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.17.png)
-
-![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.33.png)
-
-![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.09.28.png)
+![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.04.33.png)![alt text](https://github.com/MichalBurgunder/Filigree/blob/master/github_files/Screen%20Shot%202018-05-28%20at%2012.09.28.png)
